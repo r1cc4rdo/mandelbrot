@@ -2,7 +2,7 @@
 
 A vanilla python/numpy implementation of a Mandelbrot set visualizer.
 
-Open [the notebook](https://github.com/r1cc4rdo/mandelbrot/blob/master/Mandelbrot.ipynb) to see how to create pretty images like the following:
+Open [the notebook](https://github.com/r1cc4rdo/mandelbrot/blob/master/Mandelbrot.ipynb) or the [standalone implementation](https://github.com/r1cc4rdo/mandelbrot/blob/master/mandelbrot.py) to see how to create pretty images like the following:
 
 ![Mandelbrot set](https://github.com/r1cc4rdo/mandelbrot/blob/master/images/mandelbrot.png "Mandelbrot set")
 
