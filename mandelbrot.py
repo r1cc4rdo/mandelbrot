@@ -1,6 +1,6 @@
 """ Mandelbrot set visualization (2019) Riccardo Gherardi
 
-A vanilla python/numpy implementation of a Mandelbrot set visualizer, (find it on github [1]).
+A vanilla python/numpy implementation of a Mandelbrot set visualizer (on github, here: [1]).
 The code has been liberally inspired by an implementation from Jean-François Puget [2].
 Find there also more information on the Mandelbrot set and the colorization procedure.
 
