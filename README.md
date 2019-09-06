@@ -6,6 +6,6 @@ Open [the notebook](https://github.com/r1cc4rdo/mandelbrot/blob/master/Mandelbro
 
 ![Mandelbrot set](https://github.com/r1cc4rdo/mandelbrot/blob/master/images/mandelbrot.png "Mandelbrot set")
 
-The code has been liberally inspired by [this implementation by Jean-François Puget](https://www.ibm.com/developerworks/community/blogs/jfp/entry/my_christmas_gift).
+The code has been liberally inspired by [this implementation by Jean-François Puget](https://www.ibm.com/developerworks/community/blogs/jfp/entry/My_Christmas_Gift?lang=en).
 
-Follow the [above link](https://www.ibm.com/developerworks/community/blogs/jfp/entry/my_christmas_gift) also for more information on the Maldebrot set and the colorization procedure.
+Follow the [above link](https://www.ibm.com/developerworks/community/blogs/jfp/entry/My_Christmas_Gift?lang=en) also for more information on the Maldebrot set and the colorization procedure.
